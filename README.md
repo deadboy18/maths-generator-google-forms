@@ -43,9 +43,9 @@ This tool was created to support teachers — especially those working with unde
 
 | Google Form (MCQ) | Teacher PDF | Google Sheet |
 |-------------------|-------------|---------------|
-![image](https://github.com/user-attachments/assets/58731f11-bb00-425c-b640-3114dececfb3)
-![image](https://github.com/user-attachments/assets/6b68120c-09d9-4f33-a8f1-c3fdeba12db3)
-![image](https://github.com/user-attachments/assets/04dc5dd4-1586-409b-9428-eb5c9c39be2f)
+| ![Form](https://github.com/user-attachments/assets/47443631-9c39-403d-8f1c-54ac93d61bbc) | ![PDF](https://github.com/user-attachments/assets/6b586fe3-7e9d-44a8-9194-d60dd12d5e54) | ![Sheet](https://github.com/user-attachments/assets/3af2b2ba-d551-40a1-9df0-be64232d0b12) |
+
+
 
 
 
